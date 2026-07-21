@@ -10,5 +10,4 @@ PivotTables, PivotCharts, Dashboard Layout,Slicers,PDF Export
 
 # Key Result
 Built a 1-page interactive dashboard to analyze $2.2m in sales data.
-### [View Dashboard PDF]
-(Superstore_dashboard_2024.pdf)
+### [View Dashboard PDF](Superstore_dashboard_2024.pdf)
